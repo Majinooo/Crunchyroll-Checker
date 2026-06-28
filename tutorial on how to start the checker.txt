@@ -3,7 +3,7 @@ Simply run the start.bat file it will download the requirements and then launch 
 
 WITHOUT START.BAT:
 If you get a warning when opening the batch file and don't trust me, simply download the requirements for the checker. 
-Click on the address bar, type `cd dist`, and then `python main.py`.
+Click on the address bar, type `cd dist`, and then `python c.py`.
 If you have any problems, feel free to ask me on Discord.https://discord.gg/mtaZSJg6QP
 
 WHERE IS THE HIT.TXT FILE SAVED:
